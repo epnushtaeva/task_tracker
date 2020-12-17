@@ -1,0 +1,5 @@
+.tasks-col{
+    border-right: 4px solid #ccc;
+    height: 100%;
+    overflow-y: scroll;
+}

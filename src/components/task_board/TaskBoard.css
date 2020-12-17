@@ -1,0 +1,14 @@
+.tasks-board{
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    height:73vh;
+    width: 1280px;
+    margin-top: 56px;
+    margin-bottom: 56px;
+}
+
+.all-tasks-col{
+    margin-right: 0px;
+    padding-right: 0px;
+    width: 70vw !important;
+}
